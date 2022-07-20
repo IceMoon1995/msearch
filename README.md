@@ -40,3 +40,7 @@ msearch -dir [要搜索的目录/，多个目录逗号分隔] -k [要搜索的�
 -o [string] 输入的文件，默认fileSearchResult.txt
 
 
+# TODO
+1、增加压缩文件内容检索
+
+2、增加jar包内容检索
